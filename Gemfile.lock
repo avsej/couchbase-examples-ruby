@@ -13,4 +13,4 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
-  couchbase (= 1.0.0)
+  couchbase
