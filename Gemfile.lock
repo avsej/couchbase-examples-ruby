@@ -1,16 +1,14 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (3.1.3)
-      multi_json (~> 1.0)
-    couchbase (1.0.0)
+    couchbase (1.2.0.dp)
+      yaji (~> 0.2.3)
       yajl-ruby (~> 1.1.0)
-    multi_json (1.0.4)
+    yaji (0.2.3)
     yajl-ruby (1.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport
-  couchbase
+  couchbase (~> 1.2.0.dp)

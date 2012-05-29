@@ -1,4 +1,3 @@
 source "http://rubygems.org"
 
-gem "activesupport"
-gem "couchbase"
+gem "couchbase", "~> 1.2.0.dp"
